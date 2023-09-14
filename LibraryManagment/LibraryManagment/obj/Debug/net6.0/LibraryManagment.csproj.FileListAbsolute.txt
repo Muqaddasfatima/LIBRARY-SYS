@@ -1,0 +1,14 @@
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\bin\Debug\net6.0\LibraryManagment.exe
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\bin\Debug\net6.0\LibraryManagment.deps.json
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\bin\Debug\net6.0\LibraryManagment.runtimeconfig.json
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\bin\Debug\net6.0\LibraryManagment.dll
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\bin\Debug\net6.0\LibraryManagment.pdb
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\obj\Debug\net6.0\LibraryManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\obj\Debug\net6.0\LibraryManagment.AssemblyInfoInputs.cache
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\obj\Debug\net6.0\LibraryManagment.AssemblyInfo.cs
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\obj\Debug\net6.0\LibraryManagment.csproj.CoreCompileInputs.cache
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\obj\Debug\net6.0\LibraryManagment.dll
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\obj\Debug\net6.0\refint\LibraryManagment.dll
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\obj\Debug\net6.0\LibraryManagment.pdb
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\obj\Debug\net6.0\LibraryManagment.genruntimeconfig.cache
+C:\Users\muqad\source\repos\LibraryManagment\LibraryManagment\obj\Debug\net6.0\ref\LibraryManagment.dll
